@@ -1,0 +1,4 @@
+Google - open code in vscode in github desktop app
+Google - node modules in gitignore - https://stackoverflow.com/questions/29820791/git-ignore-node-modules-folder-everywhere - https://sabe.io/blog/git-ignore-node_modules#:~:text=This%20folder%20is%20not%20needed,json%20and%20package%2Dlock.
+Google - install bootstrap react npm - https://www.pluralsight.com/guides/how-to-use-react-bootstrap-with-npm
+Google - install sass in react npm - https://create-react-app.dev/docs/adding-a-sass-stylesheet/ - https://www.makeuseof.com/react-sass-how-use/#:~:text=You%20can%20install%20Sass%20via,json%20file. - https://www.makeuseof.com/react-sass-how-use/#:~:text=You%20can%20install%20Sass%20via,json%20file.
